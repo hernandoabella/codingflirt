@@ -1,2 +1,2 @@
-# Coding Flirt
-Make a programmer fall in love with these phrases
+# CodingFlirt
+Programming pick-up lines that make devs swoon.
