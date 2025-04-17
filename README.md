@@ -1,2 +1,2 @@
-# CodingFlirt
-Programming pick-up lines that make devs swoon.
+# Coding Flirt
+Pick-up lines that make devs swoon.
